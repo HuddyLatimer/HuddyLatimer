@@ -31,7 +31,7 @@ I am a results-driven developer and leader with a focus on building efficient, s
 ### Let's Connect
 - **Portfolio:** [hudsonlatimer.com](https://hudsonlatimer.com)
 - **Email:** hudsonlatimer4@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/hudsonlatimer/]
+- **LinkedIn:** https://www.linkedin.com/in/hudsonlatimer/
 
 ---
 *"I don't just write code; I design systems that solve business problems."*
