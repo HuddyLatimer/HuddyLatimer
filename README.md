@@ -1,54 +1,37 @@
-# Hudson Latimer
+# Hi, I’m Hudson Latimer
+**Junior Information Systems Specialist | Technical Lead**
 
-Junior Software Developer (Student)  
-General Software and Application Development
-
-I am a student software developer focused on building practical, maintainable software while strengthening core computer science fundamentals. My interests include backend systems, application development, and problem-solving using strongly typed languages.
+I am a results-driven developer and leader with a focus on building efficient, secure, and data-driven systems. I bridge the gap between high-level organizational strategy (as a Federal Non-Profit President) and technical execution.
 
 ---
 
-## Technical Skills
-
-**Languages**  
-C++, C#, Python, JavaScript, TypeScript
-
-**Backend & Application Development**  
-.NET, Node.js
-
-**Frontend**  
-React, Next.js
-
-**Databases**  
-PostgreSQL, SQLite
-
-**Systems & Tools**  
-Git, GitHub, Linux, Docker (basic)
-
-**Core Concepts**  
-Object-Oriented Programming, Data Structures, REST APIs, Testing
+### At a Glance
+- **Education:** IT Programming Diploma @ Nova Scotia Community College (90% Average)
+- **Leadership:** President of Laty’s Foundation (Federal Non-Profit)
+- **Experience:** Freelance Full-Stack Developer (React & Node.js)
+- **Goal:** Seeking a Software Development or Systems Analysis role for April 2026.
 
 ---
 
-## Selected Projects
-
-Pinned repositories below represent projects that best reflect my current skill level and growth as a software developer. These projects emphasize application logic, system design, and code quality.
-
----
-
-## Commit Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuddyLatimer&hide_title=true)
+### Technical Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | C#, Java, Python, C++, Kotlin, C, JavaScript, SQL |
+| **Web / Frameworks** | React, Node.js, HTML5, CSS3 |
+| **Tools & Systems** | Git, Linux, Windows OS, UML, Cisco Networking |
+| **Compliance** | OHS & WHMIS Certified |
 
 ---
 
-## Current Focus
-
-- Strengthening problem-solving and algorithmic thinking  
-- Building reliable backend and application systems  
-- Preparing for junior software developer roles  
+### Featured Projects
+- **[enterprise-asset-manager-csharp](https://github.com/huddylatimer/enterprise-asset-manager)**: A professional-grade inventory system showcasing SQL integration and C# logic.
 
 ---
 
-## Contact
+### Let's Connect
+- **Portfolio:** [hudsonlatimer.com](https://hudsonlatimer.com)
+- **Email:** hudsonlatimer4@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/hudsonlatimer/]
 
-LinkedIn: https://www.linkedin.com/in/HudsonLatimer
+---
+*"I don't just write code; I design systems that solve business problems."*
