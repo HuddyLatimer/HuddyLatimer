@@ -28,7 +28,7 @@ In 2026, I believe engineering excellence is defined by three pillars:
 ## 🏆 Featured Repositories (The Elite Eight)
 
 ### 🏗️ Product & Leadership
-* **[Laty’s Foundation](https://github.com/huddylatimer/latysfoundation)** - Production infrastructure for a registered Canadian NGO. Built with Next.js 16 and Supabase.
+* **[Laty’s Foundation](https://www.Noahlatimer.ca)** - Production infrastructure for a registered Canadian NGO. Built with Next.js 16 and Supabase.
 * **[SaaS Starter Kit](https://github.com/huddylatimer/Saas-Starter-Kit)** - A production-ready boilerplate featuring multi-tenancy, authentication, and billing integration.
 * **[Autonomous Sprint Planner](https://github.com/huddylatimer/sprint-planner)** - An AI agent that converts natural language into structured GitHub issues using OpenAI function calling.
 
