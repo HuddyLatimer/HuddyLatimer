@@ -49,7 +49,7 @@ I don't just write code; I manage the environment. My **Standard Operating Envir
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/hudsonlatimer](https://www.linkedin.com/in/hudsonlatimer/)
 * **Portfolio:** [hudsonlatimer.com](https://hudsonlatimer.com)
-* **Status:** Graduating June 2026 | Open to Remote Full Stack & IT Operations roles.
+* **Status:** Graduating May 2026 | Open to Remote Full Stack & IT Operations roles.
 
 ---
 *"The best way to predict the future is to automate it."*
