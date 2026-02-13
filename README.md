@@ -30,7 +30,7 @@ In 2026, I believe engineering excellence is defined by three pillars:
 ### 🏗️ Product & Leadership
 * **[Laty’s Foundation](https://www.Noahlatimer.ca)** - Production infrastructure for a registered Canadian NGO. Built with Next.js 16 and Supabase.
 * **[SaaS Starter Kit](https://github.com/huddylatimer/Saas-Starter-Kit)** - A production-ready boilerplate featuring multi-tenancy, authentication, and billing integration.
-* **[Autonomous Sprint Planner](https://github.com/huddylatimer/sprint-planner)** - An AI agent that converts natural language into structured GitHub issues using OpenAI function calling.
+* **[Autonomous Sprint Planner](https://github.com/HuddyLatimer/Autonomous-Sprint-Planner-)** - An AI agent that converts natural language into structured GitHub issues using OpenAI function calling.
 
 ### 🖥️ Systems & IT Operations
 * **[Engineering Environment SOE](https://github.com/huddylatimer/engineering-soe)** - PowerShell automation that deploys a secured, performance-tuned dev workstation in <45 minutes.
