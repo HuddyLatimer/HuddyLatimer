@@ -19,7 +19,7 @@ In 2026, I believe engineering excellence is defined by three pillars:
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Development** | Next.js 16, React, TypeScript, Node.js, Prisma, Supabase, Tailwind CSS |
-| **Systems & IT** | Windows, PowerShell, WSL2/Linux, Networking (TCP/IP, DNS) |
+| **Systems & IT** | Windows 11 Pro, PowerShell, WSL2/Linux, Networking (TCP/IP, DNS) |
 | **Operations** | Vercel, Active Directory, O365 Admin, BitLocker Security |
 | **AI Leverage** | OpenAI SDK, Agentic Tool Calling, Structured Outputs, LangChain |
 
@@ -47,8 +47,8 @@ In 2026, I believe engineering excellence is defined by three pillars:
 I don't just write code; I manage the environment. My **Standard Operating Environment (SOE)** project demonstrates my ability to treat local hardware like production infrastructure—automating security, WSL2 kernels, and developer dependencies through code.
 
 ## 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/hudsonlatimer](#)
-* **Portfolio:** [hudsonlatimer.com](#)
+* **LinkedIn:** [linkedin.com/in/hudsonlatimer](https://www.linkedin.com/in/hudsonlatimer/)
+* **Portfolio:** [hudsonlatimer.com](https://hudsonlatimer.com)
 * **Status:** Graduating June 2026 | Open to Remote Full Stack & IT Operations roles.
 
 ---
